@@ -12,7 +12,7 @@
 
 Скачайте данные отсюда: https://drive.google.com/open?id=1dXL-SkzlTsDkMlKqfwH0WmhCCQmdXCW1
 
-Выполните задания в IPython Notebook-е: http://nbviewer.jupyter.org/github/. Файл переименуйте в LB_01_FirstNameLastName 
+Выполните задания в IPython Notebook-е: http://nbviewer.jupyter.org/github/uladzislau-varabei/machine-learning-course-bsu-mmf-2018-autumn/blob/master/LB_01/LB_01_tasks.ipynb. Файл переименуйте в LB_01_FirstNameLastName 
 Не забудьте в первой ячейке добавить команду `%matplotlib inline`.
 
 **Срок сдачи работы работы: <> 2018.**
